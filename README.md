@@ -1,5 +1,19 @@
 # Sharp Skills
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/sharp-skills"><img src="https://img.shields.io/npm/v/sharp-skills?color=red&label=npm" alt="npm"></a>
+  <a href="https://github.com/zhouhuijia/sharp-skills/stargazers"><img src="https://img.shields.io/github/stars/zhouhuijia/sharp-skills?style=flat" alt="stars"></a>
+  <a href="https://github.com/zhouhuijia/sharp-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/zhouhuijia/sharp-skills" alt="license"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Claude%20Code-✓-d97706" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Cursor-✓-000000" alt="Cursor">
+  <img src="https://img.shields.io/badge/Copilot-✓-0284c7" alt="Copilot">
+  <img src="https://img.shields.io/badge/Codex-✓-10a37f" alt="Codex">
+  <img src="https://img.shields.io/badge/Windsurf-✓-6366f1" alt="Windsurf">
+  <img src="https://img.shields.io/badge/Aider-✓-ef4444" alt="Aider">
+  <img src="https://img.shields.io/badge/WorkBuddy-✓-3b82f6" alt="WorkBuddy">
+</p>
+
 > AI 输出不烂，只是太「糊弄」。Sharp 系列把每个领域的品控标准编码成可执行的规则，让 AI 的输出真正可交付。
 
 ## 这是什么
