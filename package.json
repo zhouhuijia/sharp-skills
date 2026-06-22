@@ -1,0 +1,45 @@
+{
+  "name": "sharp-skills",
+  "version": "1.0.0",
+  "description": "AI Agent 品控规则合集。Stop AI slop — 六个模块，七平台兼容，一行命令安装。",
+  "keywords": [
+    "ai-skills",
+    "agent-skills",
+    "claude-code",
+    "cursor",
+    "codex",
+    "copilot",
+    "windsurf",
+    "aider",
+    "workbuddy",
+    "ai-quality",
+    "code-quality",
+    "technical-writing",
+    "data-visualization",
+    "copywriting",
+    "api-design",
+    "interview",
+    "presentation"
+  ],
+  "license": "MIT",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhouhuijia/sharp-skills"
+  },
+  "bin": {
+    "sharp-skills": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "SHARP.md",
+    "CLAUDE.md",
+    ".cursorrules",
+    "skills.json",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
