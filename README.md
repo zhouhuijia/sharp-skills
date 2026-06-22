@@ -40,7 +40,16 @@ npx skills add https://github.com/zhouhuijia/sharp-skills --skill "sharp-present
 
 兼容 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 的 `skills` CLI，自动识别 `skills/` 目录结构。
 
-### 方式二：npx sharp-skills（自带 CLI）
+### 方式二：从 WorkBuddy 内置市场安装（审核通过后）
+
+```bash
+# 直接在 WorkBuddy 对话中说：
+"帮我安装 zhouhuijia/sharp-tech-writing"
+```
+
+或通过 ClawHub/WorkBuddy 技能市场搜索 `sharp-` 一键安装。
+
+### 方式三：npx sharp-skills（自带 CLI）
 
 ```bash
 # 交互式安装（推荐新手）
