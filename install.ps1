@@ -1,4 +1,4 @@
-# Sharp Collection — PowerShell 安装脚本
+# Sharp Skills — PowerShell 安装脚本
 #
 # 零依赖，Windows 原生安装。
 #
@@ -245,7 +245,7 @@ function Remove-All($platformsStr) {
 
 function Show-Info {
   $detected = Detect-Platform
-  Write-Header "Sharp Collection Info"
+  Write-Header "Sharp Skills Info"
   Write-Host ""
   Write-Host "  Version:      $VERSION"
   Write-Host "  Working dir:  $(Get-Location)"
@@ -261,7 +261,7 @@ function Show-Info {
 function Print-Help {
   Write-Host @"
 
-  Sharp Collection  — AI Agent 品控规则安装工具 (PowerShell)
+  Sharp Skills  — AI Agent 品控规则安装工具 (PowerShell)
 
   Usage:
     .\install.ps1                                   # Install all (auto-detect)

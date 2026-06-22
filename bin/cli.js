@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Sharp Collection — 跨平台 AI Agent 品控规则安装 CLI
+ * Sharp Skills — 跨平台 AI Agent 品控规则安装 CLI
  *
  * Usage:
  *   npx sharp-skills                              # Interactive mode
@@ -377,7 +377,7 @@ function removeAll(platforms) {
 
 async function showInfo() {
   const detected = detectPlatform();
-  header('Sharp Collection Info');
+  header('Sharp Skills Info');
   console.log('');
   console.log(`  ${bold('Working dir:')}  ${process.cwd()}`);
   console.log(`  ${bold('Home dir:')}     ${os.homedir()}`);
@@ -422,7 +422,7 @@ async function showInfo() {
 
 async function interactiveMode() {
   console.log(`
-  ${bold(cyan('◆ Sharp Collection'))}  ${dim('v1.0.0')}
+  ${bold(cyan('◆ Sharp Skills'))}  ${dim('v1.0.0')}
   ${dim('AI Agent 品控规则 — 6 个模块，7 个平台')}
   `);
 
@@ -553,7 +553,7 @@ function parseArgs() {
 
 function printHelp() {
   console.log(`
-  ${bold(cyan('Sharp Collection'))}  ${dim('— AI Agent 品控规则安装工具')}
+  ${bold(cyan('Sharp Skills'))}  ${dim('— AI Agent 品控规则安装工具')}
 
   ${bold('Usage:')}
     npx sharp-skills                      ${dim('Interactive mode (recommended)')}

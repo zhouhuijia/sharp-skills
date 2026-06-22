@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Sharp Collection — Shell 安装脚本
+# Sharp Skills — Shell 安装脚本
 #
 # 零依赖，直接用 curl + bash 安装。
 #
@@ -243,7 +243,7 @@ remove_all() {
 show_info() {
   local detected
   detected=$(detect_platform)
-  header "Sharp Collection Info"
+  header "Sharp Skills Info"
   echo ""
   echo -e "  ${BOLD}Version:${NC}    ${VERSION}"
   echo -e "  ${BOLD}Working dir:${NC} $(pwd)"
@@ -254,7 +254,7 @@ show_info() {
 
 print_help() {
   echo ""
-  echo -e "  ${BOLD}${CYAN}Sharp Collection${NC}  ${DIM}— AI Agent 品控规则安装工具 (Shell)${NC}"
+  echo -e "  ${BOLD}${CYAN}Sharp Skills${NC}  ${DIM}— AI Agent 品控规则安装工具 (Shell)${NC}"
   echo ""
   echo -e "  ${BOLD}Usage:${NC}"
   echo -e "    bash install.sh                              ${DIM}# Install all (auto-detect platform)${NC}"

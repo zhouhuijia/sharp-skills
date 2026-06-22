@@ -1,10 +1,10 @@
-# Sharp Collection
+# Sharp Skills
 
 > AI 输出不烂，只是太「糊弄」。Sharp 系列把每个领域的品控标准编码成可执行的规则，让 AI 的输出真正可交付。
 
 ## 这是什么
 
-Sharp Collection 是一组 AI Agent 品控规则，每个模块针对一个 AI 输出质量最差的领域，内置专家级规则、反模式清单和检查流程。
+Sharp Skills 是一组 AI Agent 品控规则，每个模块针对一个 AI 输出质量最差的领域，内置专家级规则、反模式清单和检查流程。
 
 **支持平台：** WorkBuddy · Claude Code · Cursor · Codex (OpenAI) · GitHub Copilot · Windsurf · Aider
 
