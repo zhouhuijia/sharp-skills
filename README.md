@@ -239,6 +239,20 @@ npx skills add https://github.com/zhouhuijia/sharp-skills --skill "sharp-tech-wr
 - `rules.md`：纯规则内容（多平台通用）
 - 同步更新 `SHARP.md`、`CLAUDE.md`、`skills.json`
 
+## Star History
+
+<a href="https://www.star-history.com/#zhouhuijia/sharp-skills&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zhouhuijia/sharp-skills&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zhouhuijia/sharp-skills&type=Date&theme=default" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zhouhuijia/sharp-skills&type=Date" />
+  </picture>
+</a>
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md)
+
 ## License
 
 MIT
