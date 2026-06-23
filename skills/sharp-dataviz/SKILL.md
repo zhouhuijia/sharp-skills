@@ -1,6 +1,6 @@
 ---
 name: sharp-dataviz
-description: Data visualization quality enforcement. Covers charts, graphs, dashboards, and data presentations. This skill should be used when the user asks to create, review, or improve any data visualization — bar charts, line charts, pie charts, scatter plots, heatmaps, or dashboards. It corrects the most common AI visualization failures: misleading axes, color abuse, title-as-label, and dimension overload.
+description: "Data visualization quality enforcement. Covers charts, graphs, dashboards, and data presentations. This skill should be used when the user asks to create, review, or improve any data visualization — bar charts, line charts, pie charts, scatter plots, heatmaps, or dashboards. It corrects the most common AI visualization failures: misleading axes, color abuse, title-as-label, and dimension overload."
 ---
 
 # sharp-dataviz: Data Visualization Quality

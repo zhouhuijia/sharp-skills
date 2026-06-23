@@ -1,6 +1,6 @@
 ---
 name: sharp-copywriting
-description: Marketing and product copy quality enforcement. Covers landing pages, product descriptions, ad headlines, email subject lines, and brand taglines. This skill should be used when the user asks to write, review, or improve marketing copy, sales pages, or any customer-facing promotional text. It corrects AI's worst copywriting habits: buzzword stacking, zero specificity, feature-dumping without user context, and corporate tone deafness.
+description: "Marketing and product copy quality enforcement. Covers landing pages, product descriptions, ad headlines, email subject lines, and brand taglines. This skill should be used when the user asks to write, review, or improve marketing copy, sales pages, or any customer-facing promotional text. It corrects AI's worst copywriting habits: buzzword stacking, zero specificity, feature-dumping without user context, and corporate tone deafness."
 ---
 
 # sharp-copywriting: Marketing & Product Copy Quality
