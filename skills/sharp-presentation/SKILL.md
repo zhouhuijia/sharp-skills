@@ -1,7 +1,6 @@
 ---
 name: sharp-presentation
 description: Presentation and slide deck quality enforcement. Covers PPT/keynote slide design, presentation narrative structure, data slide design, and public speaking materials. This skill should be used when the user asks to create, review, or improve presentation slides, pitch decks, keynote talks, or any slide-based communication. It corrects the most common AI presentation failures: walls of text, no narrative arc, unreadable chart annotations, and generic closing slides.
-agent_created: true
 ---
 
 # sharp-presentation: Presentation & Slide Quality

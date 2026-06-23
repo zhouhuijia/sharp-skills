@@ -1,7 +1,6 @@
 ---
 name: sharp-api-design
 description: API design quality enforcement. Covers REST API endpoint design, error handling, versioning, pagination, naming conventions, and request/response modeling. This skill should be used when the user asks to design, review, or improve an API — whether a new API from scratch or refactoring an existing one. It corrects the most common AI API design failures: inconsistent naming, mixed REST/RPC styles, broken error patterns, and pagination chaos.
-agent_created: true
 ---
 
 # sharp-api-design: API Design Quality

@@ -1,7 +1,6 @@
 ---
 name: sharp-tech-writing
 description: Technical writing quality enforcement. Covers README files, API documentation, developer guides, changelogs, and error messages. This skill should be used when the user asks to write, review, or improve technical documentation. It corrects the most common AI writing failures: passive-voice bloat, missing concrete examples, filler vocabulary, and information hierarchy collapse.
-agent_created: true
 ---
 
 # sharp-tech-writing: Technical Documentation Quality

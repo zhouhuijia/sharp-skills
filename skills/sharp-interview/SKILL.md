@@ -1,7 +1,6 @@
 ---
 name: sharp-interview
 description: Technical interview and assessment design quality enforcement. Covers interview question design, technical assessment rubrics, hiring evaluation criteria, and candidate experience. This skill should be used when the user asks to design interview questions, create a hiring assessment, build a technical evaluation rubric, or review an existing interview process. It corrects the most common AI failures: LeetCode-only question banks, generic behavioral questions, zero scoring criteria, and no follow-up strategy.
-agent_created: true
 ---
 
 # sharp-interview: Technical Interview & Assessment Quality
